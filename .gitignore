@@ -1,0 +1,11 @@
+# js
+**/node_modules
+
+# rust
+**/target
+
+# wallets
+*wallet.json
+
+# Mac
+.DS_Store
